@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72eab4ff-fb0d-4e26-b62d-b139949e3c09" name="Default Changelist" comment="" />
+    <list default="true" id="72eab4ff-fb0d-4e26-b62d-b139949e3c09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/banyuan/Fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/com/banyuan/Fu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banyuan/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/banyuan/Fu.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,12 +16,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1USwH62VLMxW0GW2MC0TDRNs6ru" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -28,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/com/banyuan" />
     </key>
   </component>
@@ -43,13 +57,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (5)">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.jicheng.p9.Test" />
+  <component name="RunManager" selected="Application.Three (1)">
+    <configuration name="Nine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.xunhuan4.Nine" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.jicheng.p9.*" />
+          <option name="PATTERN" value="com.banyuan.xunhuan4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.jicheng.P4.Test" />
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.xunhuan5.One" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.jicheng.P4.*" />
+          <option name="PATTERN" value="com.banyuan.xunhuan5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.jicheng.P5.Test" />
+    <configuration name="Three (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.jinchu3.Three" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.jicheng.P5.*" />
+          <option name="PATTERN" value="com.banyuan.jinchu3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.jicheng.p7.Test" />
+    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.xunhuan5.Three" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.jicheng.p7.*" />
+          <option name="PATTERN" value="com.banyuan.xunhuan5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.jicheng.p8.Test" />
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.jinchu3.Two" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.jicheng.p8.*" />
+          <option name="PATTERN" value="com.banyuan.jinchu3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (5)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Three (1)" />
+        <item itemvalue="Application.Two" />
+        <item itemvalue="Application.Three" />
+        <item itemvalue="Application.One" />
+        <item itemvalue="Application.Nine" />
       </list>
     </recent_temporary>
   </component>
@@ -131,11 +145,28 @@
       <updated>1575363213732</updated>
       <workItem from="1575363215045" duration="9681000" />
       <workItem from="1575421481412" duration="9797000" />
-      <workItem from="1575508770321" duration="6477000" />
+      <workItem from="1575508770321" duration="9263000" />
+      <workItem from="1575541054333" duration="4852000" />
+      <workItem from="1575594897395" duration="4375000" />
+      <workItem from="1575681525207" duration="10765000" />
+      <workItem from="1575852835765" duration="9693000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
