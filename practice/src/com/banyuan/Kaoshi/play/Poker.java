@@ -27,7 +27,7 @@ public class Poker {
         System.out.print("地主:");
         for (int i = 0; i < 20; i++) {
             int x;
-            //随机出0～54-i中的一个数x
+            //随机出0～54中的一个数x
             do {
                 x = (int) (0 + Math.random() * (53 + 1));
             }

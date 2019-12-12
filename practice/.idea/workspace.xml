@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="72eab4ff-fb0d-4e26-b62d-b139949e3c09" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/banyuan/collectionDemo/MyCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/banyuan/collectionDemo/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banyuan/Kaoshi/play/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/banyuan/Kaoshi/play/Poker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banyuan/collectionDemo1/collection02/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/banyuan/collectionDemo1/collection02/Two.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +45,9 @@
       <recent name="com.banyuan.collectionDemo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/banyuan" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/out" />
+      <recent name="$PROJECT_DIR$/src/com/banyuan" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,13 +62,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.Practice" />
+  <component name="RunManager" selected="Application.Eight">
+    <configuration name="Eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.collectionDemo1.Eight.Eight" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.*" />
+          <option name="PATTERN" value="com.banyuan.collectionDemo1.Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.collectionDemo1.collection01.Test" />
+    <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.collectionDemo1.Five" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.collectionDemo1.collection01.*" />
+          <option name="PATTERN" value="com.banyuan.collectionDemo1.Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.jinchu3.Three" />
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.collectionDemo1.Four.Four" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.jinchu3.*" />
+          <option name="PATTERN" value="com.banyuan.collectionDemo1.Four.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.xunhuan5.Three" />
+    <configuration name="Seven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.collectionDemo1.Seven" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.xunhuan5.*" />
+          <option name="PATTERN" value="com.banyuan.collectionDemo1.Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.jinchu3.Two" />
+    <configuration name="Six" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.collectionDemo1.Six" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.jinchu3.*" />
+          <option name="PATTERN" value="com.banyuan.collectionDemo1.Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.Three (1)" />
-        <item itemvalue="Application.Two" />
-        <item itemvalue="Application.Three" />
+        <item itemvalue="Application.Eight" />
+        <item itemvalue="Application.Seven" />
+        <item itemvalue="Application.Six" />
+        <item itemvalue="Application.Five" />
+        <item itemvalue="Application.Four" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +157,7 @@
       <workItem from="1575852835765" duration="10242000" />
       <workItem from="1575939338839" duration="4674000" />
       <workItem from="1576044872622" duration="8297000" />
-      <workItem from="1576113439154" duration="1476000" />
+      <workItem from="1576113439154" duration="22546000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1575872282352</created>
