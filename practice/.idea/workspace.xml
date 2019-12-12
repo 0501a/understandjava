@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72eab4ff-fb0d-4e26-b62d-b139949e3c09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/com/banyuan/Fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/com/banyuan/Fu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/banyuan/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/banyuan/Fu.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +37,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.banyuan.collectionDemo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/com/banyuan" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,13 +57,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Three (1)">
-    <configuration name="Nine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.xunhuan4.Nine" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.Practice" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.xunhuan4.*" />
+          <option name="PATTERN" value="com.banyuan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.banyuan.xunhuan5.One" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banyuan.collectionDemo1.collection01.Test" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.banyuan.xunhuan5.*" />
+          <option name="PATTERN" value="com.banyuan.collectionDemo1.collection01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.Three (1)" />
         <item itemvalue="Application.Two" />
         <item itemvalue="Application.Three" />
-        <item itemvalue="Application.One" />
-        <item itemvalue="Application.Nine" />
       </list>
     </recent_temporary>
   </component>
@@ -149,8 +149,18 @@
       <workItem from="1575541054333" duration="4852000" />
       <workItem from="1575594897395" duration="4375000" />
       <workItem from="1575681525207" duration="10765000" />
-      <workItem from="1575852835765" duration="9693000" />
+      <workItem from="1575852835765" duration="10242000" />
+      <workItem from="1575939338839" duration="4674000" />
+      <workItem from="1576044872622" duration="8297000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1575872282352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575872282352</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,5 +178,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>
